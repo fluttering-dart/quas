@@ -9,4 +9,3 @@ environment:
 dependencies:
   quap:
     git: https://github.com/ruan65/quap
-  pedantic: 
